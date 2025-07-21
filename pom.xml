@@ -21,7 +21,7 @@
 		<project.libdir>${project.dir}/lib</project.libdir>
 		<java.version>11</java.version>
 		<platform.version>2.0.29</platform.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>3.0.0</swagger.version>
 		<start-class>com.cisco.ea.EnterpriseAgreementsApp</start-class>
 		<commons-lang3.version>3.9</commons-lang3.version>
 		<commons-beantutils.version>1.9.3</commons-beantutils.version>
