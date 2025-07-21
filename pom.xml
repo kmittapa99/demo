@@ -24,7 +24,7 @@
 		<swagger.version>2.9.2</swagger.version>
 		<start-class>com.cisco.ea.EnterpriseAgreementsApp</start-class>
 		<commons-lang3.version>3.9</commons-lang3.version>
-		<commons-beantutils.version>1.9.3</commons-beantutils.version>
+		<commons-beantutils.version>1.11.0</commons-beantutils.version>
 		<dozer.version>5.5.1</dozer.version>
 		<spring-cloud.version>Hoxton.SR12</spring-cloud.version>
 	</properties>
